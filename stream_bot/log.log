@@ -1,0 +1,36 @@
+
+19/02/2022 12:03:08 EXCEPTION: Unable to open URL: https://edge5-alb.stream.highwebmedia.com/live-hls/amlst:sellapink-sd-3b7ce2412f1b978aa4bb6de0a9b7fe4e487da0bcb84d34630a2b33944bd1f7a7_trns_h264/playlist.m3u8 (403 Client Error: Forbidden for url: https://edge5-alb.stream.highwebmedia.com/live-hls/amlst:sellapink-sd-3b7ce2412f1b978aa4bb6de0a9b7fe4e487da0bcb84d34630a2b33944bd1f7a7_trns_h264/playlist.m3u8)
+
+19/02/2022 19:05:30 EXCEPTION: Unable to open URL: https://edge273.stream.highwebmedia.com/live-hls/amlst:effielinkis-sd-546784f0fe56e1f206d59944f4f6d80f803b8c1af039fd82e2f865af80982b2e_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+20/02/2022 05:32:24 EXCEPTION: Unable to open URL: https://edge7-hel.live.mmcdn.com/live-hls/amlst:michelle_swan-sd-2ca55ab349a142c8e89eb3a555c0de93bdaf95635b456237a68fdcab4126ef18_trns_h264/playlist.m3u8 (403 Client Error: Forbidden for url: https://edge7-hel.live.mmcdn.com/live-hls/amlst:michelle_swan-sd-2ca55ab349a142c8e89eb3a555c0de93bdaf95635b456237a68fdcab4126ef18_trns_h264/playlist.m3u8)
+
+21/02/2022 10:02:53 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:marshalang-sd-d9201b8b014feeffc4335c480046a5cf66e30324a5dfc0b7d00f56980304e5e4_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+21/02/2022 10:34:35 EXCEPTION: Unable to open URL: https://edge273.stream.highwebmedia.com/live-hls/amlst:sellapink-sd-cca9cd2f623cec95d3518e37529485be909d1e8e6696de8f35be75b047350f21_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+21/02/2022 10:34:57 EXCEPTION: Unable to open URL: https://edge273.stream.highwebmedia.com/live-hls/amlst:sellapink-sd-cca9cd2f623cec95d3518e37529485be909d1e8e6696de8f35be75b047350f21_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+22/02/2022 00:29:57 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:kitafoxy-sd-d94d61db1b78ee807eb8cc73c670b830885129921319ddcbdefd12e9aa086d87_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+23/02/2022 18:46:00 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:miss_alianna-sd-e11648f0d31a55b420b8ccca213d41f37138d22c147c064e0e2110568217e745_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+24/02/2022 01:07:29 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:alice_kosmos-sd-fc0f01741594b5f682b78343a71e172ccc432418908091b10392474e1f47e375_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+25/02/2022 15:59:42 EXCEPTION: Unable to open URL: https://edge324.stream.highwebmedia.com/live-hls/amlst:marshalang-sd-e9e14f0674470d670578e2a8a7e9740ba51fc99a3a52ffb1418e30d5f5a191cc_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+27/02/2022 04:06:05 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:michelle_swan-sd-d3b01fc1cfbc479c6fa5e56698dbea3174b5416a36440bc3c4e0b32a297cef96_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+27/02/2022 04:06:27 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:michelle_swan-sd-d3b01fc1cfbc479c6fa5e56698dbea3174b5416a36440bc3c4e0b32a297cef96_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+27/02/2022 21:59:31 EXCEPTION: Unable to open URL: https://edge273.stream.highwebmedia.com/live-hls/amlst:marshalang-sd-047bbf59669adee67ef321b63c260a9f5be6881fbfc30bbf29903fc928c30a7a_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+28/02/2022 00:13:31 EXCEPTION: Unable to open URL: https://edge266.stream.highwebmedia.com/live-hls/amlst:kitafoxy-sd-447fc9bda43b9f02c152e5575d353ae8b9f02989f78f257fcca11ab80b169f0f_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+28/02/2022 04:37:06 EXCEPTION: Unable to open URL: https://edge1-hel.live.mmcdn.com/live-hls/amlst:marshalang-sd-6fb8cf7f87cec3ff40fbb8549fb3ef5ca27f91ee30c5290f1d0d04c070e65d7d_trns_h264/playlist.m3u8 (403 Client Error: Forbidden for url: https://edge1-hel.live.mmcdn.com/live-hls/amlst:marshalang-sd-6fb8cf7f87cec3ff40fbb8549fb3ef5ca27f91ee30c5290f1d0d04c070e65d7d_trns_h264/playlist.m3u8)
+
+28/02/2022 11:00:13 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:minamisuzuhara-sd-c80155bf31437d5eb7b114073a303e804e49976620911a9539a570bb6a7f94b9_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+
+28/02/2022 11:38:39 EXCEPTION: Unable to open URL: https://edge6-sof.live.mmcdn.com/live-hls/amlst:marshalang-sd-f4b84b983f047a5e5a4109a50bb0b758847bb3705a980a5b6820f2ae26322f70_trns_h264/playlist.m3u8 (403 Client Error: Forbidden for url: https://edge6-sof.live.mmcdn.com/live-hls/amlst:marshalang-sd-f4b84b983f047a5e5a4109a50bb0b758847bb3705a980a5b6820f2ae26322f70_trns_h264/playlist.m3u8)
+
+28/02/2022 13:41:02 EXCEPTION: Unable to open URL: https://edge275.stream.highwebmedia.com/live-hls/amlst:minamisuzuhara-sd-ecef6c5f6f9eb86d635767031f021d815f392189b6c7e72990a56125af9d1d9b_trns_h264/playlist.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))

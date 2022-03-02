@@ -1,0 +1,37 @@
+{
+    "bot_data": {
+        "notification_period": 240,
+        "token": "5152277891:AAFvQt1LX3xBQXgL0hSNv-G4VbMI3W7y6Zs",
+        "whitelist": [
+            744360630
+        ]
+    },
+    "cb_info": {
+        "genders": [
+            "female"
+        ],
+        "login": "AdmFull",
+        "models": [
+            "michelle_swan",
+            "sweetiewow",
+            "alicentity",
+            "digital_geisha",
+            "kitafoxy",
+            "minamisuzuhara",
+            "miss_alianna",
+            "_feli_"
+        ],
+        "password": "g159753g159753H",
+        "token": "Zvs1kkSKTh5bv0fQ1iZp0pEv"
+    },
+    "save_info": {
+        "completed_directory": "",
+        "directory_structure": "{path}/{model}/{year}.{month}.{day}_{hour}.{minutes}.{seconds}_{model}.mp4",
+        "save_directory": "F:\\capture\\"
+    },
+    "settings": {
+        "checkInterval": 20,
+        "postProcessingCommand": "",
+        "postProcessingThreads": 2
+    }
+}
